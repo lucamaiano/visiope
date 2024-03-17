@@ -1,0 +1,4 @@
+# Skip these files and folders
+.devcontainer/
+.github/
+.DS_Store
